@@ -85,8 +85,8 @@
   <name>EP RFN Search</name>
   <description>This is the custom module (EP RFN Search) for running on a Digital Factory server.</description>
   <scm>
-    <connection>scm:dummy:uri</connection>
-    <developerConnection>scm:dummy:uri</developerConnection>
+    <connection>scm:git:git@github.com:odambrosio/ep-rfn-search.git</connection>
+    <developerConnection>scm:git:git@github.com:odambrosio/ep-rfn-search.git</developerConnection>
   </scm>
   <repositories>
     <repository>
